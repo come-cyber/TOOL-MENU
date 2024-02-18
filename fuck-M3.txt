@@ -1,1 +1,2 @@
+[FBAN/Orca-Android;FBAV/444.1.0.49.109;FBPN/com.facebook.orca;FBLC/en_US;FBBV/565069915;FBCR/Grameenphone;FBMF/vivo;FBBD/vivo;FBDV/vivo 1906;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1406};FB_FW/1;]
 

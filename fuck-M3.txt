@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548243062;FBCR/Airtel;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBDV/TECNO KF8;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1524};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/442.0.0.25.115;FBPN/com.facebook.orca;FBLC/en_US;FBBV/558830098;FBCR/Robi;FBMF/INFINIX;FBBD/Infinix;FBDV/Infinix X669C;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1460};FB_FW/1;]

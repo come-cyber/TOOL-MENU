@@ -1,1 +1,2 @@
+[FBAN/Orca-Android;FBAV/379.1.0.23.114;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/400906427;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBDV/SM-A037F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.875,width=720,height=1465};FB_FW/1;] 
 

@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/422.0.0.18.107;FBPN/com.facebook.orca;FBLC/en_US;FBBV/505323569;FBCR/Banglalink;FBMF/vivo;FBBD/vivo;FBDV/vivo 1904;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1406};FB_FW/1;]
+FBAN/Orca-Android;FBAV/414.0.0.17.61;FBPN/com.facebook.orca;FBLC/en_US;FBBV/ 486434465;FBCR/null;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X612B;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1412};FB_FW /1;]

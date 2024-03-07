@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/441.1.0.39.109;FBBV/539182782;FBDM/{density=2.0,width=1449,height=720};FBLC/en_US;FBRV/0;FBCR/JIO 4G;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2006C3LI;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
